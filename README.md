@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Baktygul 👋
 
-<!--
-**bnazarkul/bnazarkul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with experience in digital products, payment services, product analytics, financial analytics, and process automation.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- Python
+- Power BI
+- Metabase
+- PostgreSQL
+- Excel / Power Query
+- Data Quality
+- Product Analytics
+- Financial Analysis
+- Process Automation
+
+## Portfolio Projects
+
+- Payment Analytics
+- Reporting Automation
+- Data Quality & Reconciliation
+- BI Dashboards
+- Python Automation Scripts
+- Telegram Bots
+
+## Current Focus
+
+Building practical analytics and automation projects using SQL, Python, BI tools, and data workflows.
+
+## Connect with me
+
+- LinkedIn: add your LinkedIn profile link here
