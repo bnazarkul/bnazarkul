@@ -44,3 +44,7 @@ Building practical analytics and automation projects using SQL, Python, BI tools
 ### 📈 Product Analytics Case
 Product analytics project with SQL and Python focused on user activity, conversion, payment behavior, funnel analysis, and channel performance.  
 [View Project](https://github.com/bnazarkul/product-analytics-case)
+
+### 🤖 Telegram Report Bot
+Telegram bot for automated payment analytics, KPI summaries, Excel report generation, and report delivery using Python.  
+[View Project](https://github.com/bnazarkul/telegram-report-bot)
