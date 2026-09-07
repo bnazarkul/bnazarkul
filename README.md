@@ -40,3 +40,7 @@ Building practical analytics and automation projects using SQL, Python, BI tools
 ## Connect with me
 
 - LinkedIn: add your LinkedIn profile link here
+
+### 📈 Product Analytics Case
+Product analytics project with SQL and Python focused on user activity, conversion, payment behavior, funnel analysis, and channel performance.  
+[View Project](https://github.com/bnazarkul/product-analytics-case)
