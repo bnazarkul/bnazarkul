@@ -46,5 +46,4 @@ Building practical analytics and automation projects using SQL, Python, Power BI
 
 ## Connect with me
 
-- LinkedIn: [Baktygul Nazarkul](www.linkedin.com/in/baktygul-nazarkul-kyzy
-)
+- LinkedIn: [Baktygul Nazarkul](https://www.linkedin.com/in/baktygul-nazarkul-kyzy)
