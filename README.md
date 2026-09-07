@@ -7,12 +7,11 @@ Data Analyst with experience in digital products, payment services, product anal
 - SQL
 - Python
 - Power BI
-- Metabase
 - PostgreSQL
 - Excel / Power Query
-- Data Quality
 - Product Analytics
 - Financial Analysis
+- Data Quality
 - Process Automation
 
 ## Portfolio Projects
@@ -26,25 +25,26 @@ SQL and Python analysis of synthetic payment transaction data with KPI calculati
 [View Project](https://github.com/bnazarkul/payment-analytics)
 
 ### 🔍 Data Quality & Reconciliation
-Python-based reconciliation of two data sources with duplicate detection, discrepancy analysis, and validation.  
+Python-based reconciliation of multiple data sources with duplicate detection, discrepancy analysis, and validation.  
 [View Project](https://github.com/bnazarkul/data-quality-reconciliation)
 
 ### 📈 Power BI Dashboard
 Interactive Power BI dashboard for payment and product analytics using DAX and synthetic transaction data.  
 [View Project](https://github.com/bnazarkul/bi-dashboard-case)
 
-## Current Focus
-
-Building practical analytics and automation projects using SQL, Python, BI tools, and data workflows.
-
-## Connect with me
-
-- LinkedIn: add your LinkedIn profile link here
-
-### 📈 Product Analytics Case
+### 📉 Product Analytics Case
 Product analytics project with SQL and Python focused on user activity, conversion, payment behavior, funnel analysis, and channel performance.  
 [View Project](https://github.com/bnazarkul/product-analytics-case)
 
 ### 🤖 Telegram Report Bot
 Telegram bot for automated payment analytics, KPI summaries, Excel report generation, and report delivery using Python.  
 [View Project](https://github.com/bnazarkul/telegram-report-bot)
+
+## Current Focus
+
+Building practical analytics and automation projects using SQL, Python, Power BI, and data workflows.
+
+## Connect with me
+
+- LinkedIn: [Baktygul Nazarkul](www.linkedin.com/in/baktygul-nazarkul-kyzy
+)
